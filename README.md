@@ -6,7 +6,8 @@ This project provides a visual analytics dashboard for **Adventure Works**, segm
 
 ### 🛒 Internet Sales Dashboard
 
-![image](https://github.com/user-attachments/assets/263f405f-72a6-44c0-8be1-6aa27a0ff7f4)
+![image](https://github.com/user-attachments/assets/e4472a2f-c89f-4176-8a02-f7f184b598a7)
+
 
 ### Key Metrics:
 

@@ -1,10 +1,12 @@
-![image](https://github.com/user-attachments/assets/662bc2fd-5e65-4b4f-b428-8fa15ac931f2)#📊 Adventure Works Dashboard
+#📊 Adventure Works Dashboard
 
 This project provides a visual analytics dashboard for **Adventure Works**, segmented into two major domains: **Internet Sales** and **Call Center**. The dashboards are built to facilitate business intelligence and decision-making by presenting key performance indicators and metrics in an interactive and accessible format.
 
 ---
 
 ### 🛒 Internet Sales Dashboard
+
+![image](https://github.com/user-attachments/assets/263f405f-72a6-44c0-8be1-6aa27a0ff7f4)
 
 ### Key Metrics:
 
@@ -26,7 +28,8 @@ This project provides a visual analytics dashboard for **Adventure Works**, segm
 
 ### 📞 Call Center Dashboard
 
-![](https://chatgpt.com/c/path-to-your-screenshot2.png)
+ ![image](https://github.com/user-attachments/assets/075f66d5-3e86-445e-bfea-54615c481c8f)
+
 
 ### Key Metrics:
 

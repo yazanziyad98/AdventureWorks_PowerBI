@@ -76,5 +76,5 @@ The data model consists of a **star schema** structure with two main fact tables
 - **DimDate** – Shared by both fact tables to support temporal analysis by year, quarter, month, or day.
 - **DimProduct ↔ DimProductSubcategory ↔ DimProductCategory** – Enables deep product-level analysis from broad categories to specific product names.
 
-This model supports flexible slicing and dicing of data for powerful reporting and dashboarding.
+
 
